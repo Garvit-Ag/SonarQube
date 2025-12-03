@@ -1,0 +1,49 @@
+2025-12-02 19:26:45 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:26:45 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:26:45 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:26:45 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:28:31 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:28:31 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:28:31 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:28:31 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:33:27 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:33:27 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:33:27 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:33:27 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:39:31 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:39:31 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:39:31 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:39:31 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:42:14 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:42:14 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:42:14 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:42:14 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:44:13 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:44:13 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:44:13 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:44:13 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:47:02 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:47:02 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:47:02 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:47:02 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:52:19 DEBUG com.app.LoggingTest - Entering main
+2025-12-02 19:52:19 TRACE com.app.LoggingTest - Trace Message: Verbose details for debugging
+2025-12-02 19:52:19 DEBUG com.app.LoggingTest - Debug Message: For developer analysis
+2025-12-02 19:52:19 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:52:19 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:52:19 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:52:19 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:52:57 DEBUG com.app.LoggingTest - Entering main
+2025-12-02 19:52:57 TRACE com.app.LoggingTest - Trace Message: Verbose details for debugging
+2025-12-02 19:52:57 DEBUG com.app.LoggingTest - Debug Message: For developer analysis
+2025-12-02 19:52:57 INFO  com.app.LoggingTest - Info Message: Normal flow information
+2025-12-02 19:52:57 WARN  com.app.LoggingTest - Warning Message: Something might be off
+2025-12-02 19:52:57 ERROR com.app.LoggingTest - Error Message: Something failed
+2025-12-02 19:52:57 FATAL com.app.LoggingTest - Fatal Message: Critical system failure
+2025-12-02 19:52:57 ERROR com.app.LoggingTest - Arithmetic exception occurred
+java.lang.ArithmeticException: / by zero
+	at com.app.LoggingTest.main(LoggingTest.java:20) [classes/:?]
+2025-12-02 19:52:57 ERROR com.app.LoggingTest - Null pointer exception occurred
+java.lang.NullPointerException: Cannot invoke "String.toLowerCase()" because "name" is null
+	at com.app.LoggingTest.main(LoggingTest.java:27) [classes/:?]
+2025-12-02 19:52:57 DEBUG com.app.LoggingTest - Exiting main
