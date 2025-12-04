@@ -17,18 +17,9 @@ public class LoggingTest {
         logger.fatal("Fatal Message: Critical system failure");
 
         try {
-            int i = 10 / 0;
         } catch (Exception e) {
             logger.error("Arithmetic exception occurred", e);
         }
-
-        try {
-            String name = null;
-            name.toLowerCase();
-        } catch (Exception e) {
-            logger.error("Null pointer exception occurred", e);
-        }
-
         logger.debug("Exiting main");
     }
 }

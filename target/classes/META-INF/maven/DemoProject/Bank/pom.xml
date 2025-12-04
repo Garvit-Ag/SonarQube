@@ -31,5 +31,7 @@
   <scope>test</scope>
 </dependency>
 </dependencies>
-
+<properties>
+		<sonar.organization>garvit-ag</sonar.organization>
+	</properties>
 </project>

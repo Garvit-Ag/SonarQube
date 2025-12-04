@@ -1,0 +1,54 @@
+
+-com.app.Account#compareTo(Lcom/app/Account;)I>
+4D:/Eclipse/Bank/src/main/java/com/app/MavelFile.java) )("startingBlock*†
+startingBlock) )('‹
+ˆ
+( ((
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+othercom.app.AccountX
+V
+)! )(&
+othercom.app.Account"__annotation*"
+
+__unknown_file (
+
+%3*
+1*û
+1* *(r
+p
+* *(%
+%0java.lang.String"__id*F
+
+__unknown_file (**(
+com.app.Account"
+accountHolderNamey
+w
+*: *(Q
+%1java.lang.String"__id*M
+
+__unknown_file (1*/
+
+othercom.app.Account"
+accountHolderNameèå
+* *(R	
+%2int"9java.lang.String#compareToIgnoreCase(Ljava/lang/String;)I*4
+
+__unknown_file (
+
+%0java.lang.String*4
+
+__unknown_file (
+
+%1java.lang.String2'compareToIgnoreCase(Ljava/lang/String;)"
+* *(S
+"":$
+) )(&
+othercom.app.AccountB
+com.app.AccountHX
